@@ -91,11 +91,7 @@
             ],
             "styles": [
               "src/styles.css",
-<<<<<<< HEAD
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-=======
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
->>>>>>> 08a8ebea1de46f50e189c9307c90d42261a3668b
             ],
             "scripts": [
               "../node_modules/jquery/dist/jquery.min.js",
